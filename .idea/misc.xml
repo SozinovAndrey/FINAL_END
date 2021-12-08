@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/drawable/item_bg.xml" value="0.346875" />
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/activity_orders.xml" value="0.25" />
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/cart_list_item.xml" value="0.48596014492753625" />
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/frag_about.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/frag_add_order.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/fragment_frag__pizza.xml" value="0.4234375" />
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/fragment_frag__sushi.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/fragment_frag_cart.xml" value="0.4234375" />
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/fragment_frag_logo.xml" value="0.25" />
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/pizza_list_item.xml" value="0.4234375" />
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/sushi_list_item.xml" value="0.48596014492753625" />
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/menu/main_menu.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/1cdev-f01/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/menu/orders_menu.xml" value="0.4234375" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/activity_orders.xml" value="0.37907608695652173" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/cart_list_item.xml" value="0.37907608695652173" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/fragment_frag__sushi.xml" value="0.37907608695652173" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/fragment_frag_cart.xml" value="0.37907608695652173" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/pizza_list_item.xml" value="0.37907608695652173" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Amirk3d1_Final_1/app/src/main/res/layout/sushi_list_item.xml" value="0.37907608695652173" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Itogovaya/app/src/main/res/drawable/radius_images.xml" value="0.39375" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Itogovaya/app/src/main/res/layout/activity_login.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Itogovaya/app/src/main/res/layout/activity_main.xml" value="0.37907608695652173" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Itogovaya/app/src/main/res/layout/activity_orders.xml" value="0.37907608695652173" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Itogovaya/app/src/main/res/layout/frag_about.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Itogovaya/app/src/main/res/layout/frag_add_order.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Itogovaya/app/src/main/res/layout/fragment_frag__pizza.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Itogovaya/app/src/main/res/layout/fragment_frag__sushi.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Itogovaya/app/src/main/res/layout/fragment_frag_logo.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Itogovaya/app/src/main/res/layout/pizza_list_item.xml" value="0.3776041666666667" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Itogovaya/app/src/main/res/layout/sushi_list_item.xml" value="0.3776041666666667" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Itogovaya/app/src/main/res/menu/main_menu.xml" value="0.446875" />
+        <entry key="..\:/Users/Andrey/AndroidStudioProjects/Itogovaya/app/src/main/res/menu/orders_menu.xml" value="0.446875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

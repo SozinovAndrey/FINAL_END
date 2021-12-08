@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/frag_bg"
+    tools:context=".LoginActivity">
+
+    <ImageView
+        android:layout_marginTop="100sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logotip1" />
+
+    <LinearLayout
+        android:id="@+id/linearButtom"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <EditText
+            android:hint="ВАШ ЛОГИН"
+            android:id="@+id/input_login"
+            android:layout_width="214dp"
+            android:layout_height="wrap_content"
+            android:maxLength="30" />
+
+        <Button
+            android:id="@+id/button_login"
+            android:text= "Login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</LinearLayout>

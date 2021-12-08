@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/main_item_orders"
+        android:enabled="true"
+        android:icon="@drawable/menu"
+        android:hint="МЕНЮ"
+        android:title="" />
+    <item
+        android:id="@+id/main_item_browser"
+        android:enabled="true"
+        android:icon="@drawable/internet"
+        android:hint="Internet"
+        android:title=""
+        />
+
+    <item
+        android:id="@+id/main_item_about"
+        android:enabled="true"
+        android:icon="@drawable/information_button"
+        android:hint="О нас"
+        android:title=""
+        />
+    <item
+        android:id="@+id/logoute"
+        android:enabled="true"
+        android:icon="@drawable/logout"
+        android:hint="Выйти"
+        android:title=""
+        />
+
+</menu>
